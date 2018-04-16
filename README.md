@@ -10,7 +10,7 @@
         </repository>
     </repositories>
 ```
-然后依赖所需要的包即可：
+然后依赖所需要的项目即可：
 ```
     <dependency>
         <groupId>com.david.common</groupId>

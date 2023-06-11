@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.api.bard</groupId>
+  <artifactId>java-bard-api</artifactId>
+  <versioning>
+    <versions>
+      <version>1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20230611084641</lastUpdated>
+  </versioning>
+</metadata>
